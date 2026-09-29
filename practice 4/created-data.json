@@ -1,0 +1,11 @@
+{
+    "course": "Python",
+    "topic": "JSON",
+    "completed": true,
+    "topics": [
+        "loads",
+        "dumps",
+        "load",
+        "dump"
+    ]
+}
