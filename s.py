@@ -1,23 +1,9 @@
-# for x in "banana":
-#     print(x)
+text = input()
 
+count = 0
 
-a = 5
-b = "3"
+for i in range(len(text) - 1):
+    if text[i] == text[i + 1]:
+        count += 1
 
-print(str(a) + b)
-
-
-
-
-
-countries = ["USA", "Canada", "Germany", "France"]
-
-# USA - 1
-#Canada - 2
-
-
-print(countries[0] + " - 1")
-print(countries[1] + " - 2")
-print(countries[2] + " - 3")
-print(countries[3] + " - 4")
+print(count)
