@@ -1,0 +1,157 @@
+[
+    {
+        "first_name": "Dariya",
+        "last_name": "Asan",
+        "email": null,
+        "birthday": null,
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87081630900",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Samira",
+        "last_name": "Samat",
+        "email": "samira@gmail.com",
+        "birthday": "2006-04-02",
+        "group": "Friens",
+        "phones": [
+            {
+                "phone": "870123489453",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Alina",
+        "last_name": "",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87774444444 ",
+                "type": "mobile"
+            },
+            {
+                "phone": "87774444444",
+                "type": "mobile"
+            },
+            {
+                "phone": "87021347388",
+                "type": "work"
+            },
+            {
+                "phone": "8701548747",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "first_name": "Aizere",
+        "last_name": "Nurmukhamed",
+        "email": "aizere@gmail.com",
+        "birthday": "2006-05-15",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87771111111",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Asel",
+        "last_name": "Amangeldi",
+        "email": "asel@gmail.com",
+        "birthday": "2006-07-12",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87775555555",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Zhanna",
+        "last_name": "A",
+        "email": "zhanna@gmail.com",
+        "birthday": "2006-09-08",
+        "group": "5",
+        "phones": [
+            {
+                "phone": "87773452671",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aidana",
+        "last_name": "Kaisar",
+        "email": "aidana@gmail.com",
+        "birthday": "2005-09-08",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87716849234",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aidana",
+        "last_name": "Johnson",
+        "email": "aidana@gmail.com",
+        "birthday": "2006-02-10",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87773333333",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Maksat",
+        "last_name": "Nesipbai",
+        "email": "maksat@gmail.com",
+        "birthday": "2005-10-10",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87002349191",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aidana",
+        "last_name": null,
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87772222222",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Guldana",
+        "last_name": "Serik",
+        "email": "guldana@gmail.com",
+        "birthday": "1999-10-04",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87025643723",
+                "type": "mobile"
+            }
+        ]
+    }
+]

@@ -2,7 +2,7 @@ import csv
 from connect import connect
 
 
-# 1. Add contact
+
 def add_contact():
     name = input("Enter name: ")
     phone = input("Enter phone: ")
@@ -36,7 +36,7 @@ def add_contact():
         if conn:
             conn.close() 
 
-# 2. Show all contacts
+
 def show_contacts():
     conn = connect()
     cur = conn.cursor()
@@ -54,7 +54,7 @@ def show_contacts():
     conn.close()
 
 
-# 3. Update name
+
 def update_name():
     phone = input("Enter current phone: ")
     new_name = input("Enter new name: ")
@@ -89,7 +89,6 @@ def update_name():
             conn.close()  
 
 
-# 4. Update phone
 def update_phone():
     name = input("Enter name: ")
     new_phone = input("Enter new phone: ")
@@ -124,7 +123,7 @@ def update_phone():
             conn.close() 
 
 
-# 5. Search by name
+
 def search_by_name():
     name = input("Enter name to search: ")
 
@@ -148,7 +147,7 @@ def search_by_name():
     conn.close()
 
 
-# 6. Search by phone prefix
+
 def search_by_phone():
     prefix = input("Enter phone prefix: ")
 
@@ -172,7 +171,7 @@ def search_by_phone():
     conn.close()
 
 
-# 7. Delete by name
+
 def delete_by_name():
     name = input("Enter name: ")
 
@@ -205,7 +204,7 @@ def delete_by_name():
         if conn:
             conn.close() 
 
-# 8. Delete by phone
+
 def delete_by_phone():
     phone = input("Enter phone: ")
 
@@ -238,7 +237,7 @@ def delete_by_phone():
         if conn:
             conn.close() 
 
-# 9. Import from CSV
+
 def import_from_csv():
     conn = None
     cur = None
@@ -276,7 +275,7 @@ def import_from_csv():
 
         if conn:
             conn.close() 
-# 10. Main menu
+
 def menu():
     while True:
         print("\n========== PHONEBOOK ==========")
@@ -328,5 +327,5 @@ def menu():
             print("Invalid option! Try again.")
 
 
-# Start program
+
 menu() 
